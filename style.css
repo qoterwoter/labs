@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(71, 71, 71);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(196, 196, 196);
+}
+
+a {
+    color: #6fb2ff;
+    transition: .5s;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(182, 103, 255);
+}
+
+section article {
+    padding: 20px;
+    border-top: 3px solid rgb(94, 94, 94);
+}
